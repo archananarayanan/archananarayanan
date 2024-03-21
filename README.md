@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **archananarayanan/archananarayanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4 align="left">Hi! This is Archana Narayanan. A Full-Stack developer with a curious mind and a passion for tech. <br><br>Checkout my profile at - https://archana-portfolio-alpha.vercel.app/</h4>
+<h4 align="left">Hi there 👋 This is Archana Narayanan. A Full-Stack developer with a curious mind and a passion for tech. <br><br>Checkout my profile at - https://archana-portfolio-alpha.vercel.app/</h4>
 
 ###
 
