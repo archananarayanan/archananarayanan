@@ -176,7 +176,7 @@ Here are some ideas to get you started:
   <a href="https://medium.com/@archananarayanan223" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
-  <a href="arcnaray@iu.edu" target="_blank">
+  <a href="mailto:arcnaray@iu.edu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
